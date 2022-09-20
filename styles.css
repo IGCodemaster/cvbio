@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+
+}
+
+h1 {
+  margin:0;
+  padding-top: 100px;
+  font-family: 'Great Vibes', cursive;
+  font-size: 50PX;
+  color: #25316D;
+  line-height:20px;
+}
+
+p {
+  font-family: 'Tiro Bangla', serif;
+  font-size: 1.5rem
+}
+
+
+h2 {
+  font-size: 2rem;
+  color: #25316D;
+  font-weight:normal;
+  padding-top: 100px;
+}
+
+h3 {
+  color: #25316D;
+  font-weight: bold;
+  width: 50%;
+  margin: auto;
+  font-size: 20px;
+}
+
+hr{
+ border: dotted #54BAB9 10px;
+ border-bottom: none;
+ width: 70%;
+ margin: 100px auto;
+
+
+}
+a {
+  color: #25316D;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover{
+  color: #EEF2E6;
+}
+
+.cloud1{
+  position: absolute;
+  right: 200px;
+  top: 100px
+
+}
+.cloud2{
+  position: absolute;
+  left:100px;
+
+}
+.csg{
+  color: #25316D;
+  font-size: 0.80rem;
+}
+.pg{
+  font-size: 1rem;
+  padding-top: 30px;
+  font-weight: bold;
+}
+.middle-container{
+  background-color: #EAF6F6;
+  padding: 100px 0;
+
+}
+.bottom-container{
+  background-color: #ABC9FF;
+  padding: 50px 0 25px;
+
+}
+
+.laptop{
+  width: 25%;
+  float: left;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+}
+.chess{
+  width: 25%;
+  float: right;
+}
+.contact-me{
+  margin: 100px auto 100px auto;
+}
+.top-container {
+  background-color: #ABC9FF;
+  position: relative;
+}
+
+.my-pics{
+  position: absolute;
+  left: 200px;
+  width: 200px;
+  height: 200px;
+  padding-top: 60px;
+}
+
+.iam{
+  padding-top: 50px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contactm{
+  margin: 30px auto 80px auto;
+  padding: 20px 0;
+}
+.skill-row2{
+  margin: 100px auto;
+  width: 50%;
+}
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.Therapy{
+  padding: 20px 0;
+}
